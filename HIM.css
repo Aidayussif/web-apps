@@ -1,0 +1,25 @@
+h1::first-letter {
+    font-size: 30px;
+    color: aquamarine;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:link {
+    color: orangered;
+}
+
+li:first-child'+1' {
+    color: aquamarine;
+}
+
+li:last-child :hover {
+    color: red;
+}
+
+ul.un :hover {
+    background-color: black;
+    color: red;
+}
